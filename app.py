@@ -4,9 +4,9 @@ Description:
 Author: Mathias Adikpon
 Last Update: 07/19/2025
 """
-import tkinter
-from Driver import Driver
+import tkinter as tk
+from Driver import Driver a
 
-root = Tk()
-Driver(root)
+root = tk.Tk()
+dv.Driver(root)
 root.mainloop()
